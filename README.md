@@ -1,4 +1,4 @@
-## Oi eu sou a Lorena! 💻
+## Oi, eu sou a Lorena! 💻
 
 - 👩🏻‍🎓 Bacharel em Game Design- UAM (concluído) | Téc. em Análise e Desenvolvimento de Sistemas - Mackenzie (em andamento)
 - 📚 Estudando: Javascript e Python
