@@ -1,7 +1,7 @@
 ## Oi, eu sou a Lorena! 💻
 
-- 👩🏻‍🎓 Bacharel em Game Design- UAM (concluído) | Téc. em Análise e Desenvolvimento de Sistemas - Mackenzie (em andamento)
-- 📚 Estudando: Javascript e Python
+- 👩🏻‍🎓 Bacharel em Game Design- UAM (concluído) | Pós-graduação em Data Analytics - FIAP (em andamento)
+- 📚 Estudando: Python | SQL 
 - 👾 Meus jogos favoritos: Devil May Cry e Metal Gear Rising: Revengeance
 - 🎬 Meus filmes/séries favoritas: No limite do amanhã, Dr. House e The big bang theory
 
